@@ -1,2 +1,3 @@
 # hello-world
-As always, starting every program with the classic and comforting Hello [Sad]World
+As always, starting every program with the classic and comforting Hello World.....
+A bit about myself: I am fine with both '0' or '1'. It's your call.
